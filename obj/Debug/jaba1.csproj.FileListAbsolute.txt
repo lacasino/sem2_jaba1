@@ -1,0 +1,10 @@
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.csprojAssemblyReference.cache
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.Form1.resources
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.Properties.Resources.resources
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.csproj.GenerateResource.cache
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.csproj.CoreCompileInputs.cache
+C:\Users\durashkins\source\repos\jaba1\bin\Debug\jaba1.exe.config
+C:\Users\durashkins\source\repos\jaba1\bin\Debug\jaba1.exe
+C:\Users\durashkins\source\repos\jaba1\bin\Debug\jaba1.pdb
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.exe
+C:\Users\durashkins\source\repos\jaba1\obj\Debug\jaba1.pdb
